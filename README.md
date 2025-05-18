@@ -20,3 +20,4 @@ Este projeto demonstra como usar a biblioteca LangChain com o modelo LLaMA 3 do 
 - Modelo `llama3` baixado com:  
   ```bash
   ollama pull llama3
+- todas as dependencias instaladas com o comando no terminal, comando usado: pip install langchain langchain-community langchain-ollama faiss-cpu
